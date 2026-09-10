@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true
+          submodules: false
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
