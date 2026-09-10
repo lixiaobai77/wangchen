@@ -13,11 +13,10 @@ profile:
     <p>办公地点：绍兴大学智能工程学院 人工智能研究院</p >
     <p>浙江省绍兴市越城区城南大道900号，邮编 312000</p >
 
-news: false  # includes a list of news items
+news: false # includes a list of news items
 latest_posts: false
 selected_papers: false # includes a list of papers marked "selected: true"
-social: false  # displays social icons below profile pic
-
+social: false # displays social icons below profile pic
 ---
 
 # 个人简介
@@ -27,9 +26,11 @@ social: false  # displays social icons below profile pic
 本科、硕士毕业于重庆邮电大学控制科学与工程专业，2023年6月获得重庆大学软件工程博士学位；2023年11月入职绍兴大学（原绍兴文理学院）。
 
 ## 研究方向
+
 研究领域：**计算机视觉、深度学习、医学图像分析**
 
 当前主要研究兴趣：
+
 - 图像语义分割、目标检测
 - 知识蒸馏、模型轻量化
 - 医学影像智能分析
@@ -37,9 +38,11 @@ social: false  # displays social icons below profile pic
 - 高效深度学习模型与小样本学习
 
 ## 学术审稿服务
+
 长期担任国内权威期刊与国际SCI期刊审稿人：《计算机学报》、《电子学报》、Knowledge‑Based Systems(KBS)、Expert Systems with Applications(ESWA)、Neural Computing and Applications(NCAA)、Applied Intelligence等。
 
 ## 招生说明
+
 课题组每年招收学术型硕士、专业型硕士，招生要求：
 
 1. 具备英语文献阅读能力，英语四级及以上，英语六级优先；
@@ -52,9 +55,12 @@ social: false  # displays social icons below profile pic
 8. 学生培养成果可查阅竞赛获奖、学术论文等公开信息。入组后双向沟通、共同成长，一起完成高质量科研工作。欢迎感兴趣的同学联系。
 
 ## 学术兼职与社会服务
+
 ### 会员身份
+
 - 中国计算机学会CCF会员
 - 中国人工智能学会会员
 
 ### 期刊审稿人（部分）
+
 计算机学报、电子学报、Knowledge‑Based Systems、Expert Systems with Applications、Neural Computing and Applications、Applied Intelligence等SCI期刊。
