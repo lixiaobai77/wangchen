@@ -2,6 +2,7 @@
 remote_theme:alshedivat/al-folio
 # Site settings
 # -----------------------------------------------------------------------------
+third_party_libraries: []
 
 title: Chen Wang | 王臣 # the website title (if blank, full name will be used instead)
 first_name: Chen
